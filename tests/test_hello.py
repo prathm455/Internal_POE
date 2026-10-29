@@ -1,4 +1,4 @@
 from hello import hello
 
-def hello():
-    assert hello()=="hello from prathmesh"
+def test_hello():
+    assert hello()=="Hello students"
